@@ -10,6 +10,6 @@ BOT_NAME = 'fifa_wc_scraper'
 
 SPIDER_MODULES = ['fifa_wc_scraper.spiders']
 NEWSPIDER_MODULE = 'fifa_wc_scraper.spiders'
-
+CONCURRENT_REQUESTS = 1
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'fifa_wc_scraper (+http://www.yourdomain.com)'

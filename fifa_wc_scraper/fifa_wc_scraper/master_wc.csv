@@ -1,0 +1,773 @@
+date, venue, home, away, hscore, ascore, hpens, apens, winner
+13 Jul 1930,Montevideo ,France,Mexico,4,1,NA,NA,France
+15 Jul 1930,Montevideo ,Argentina,France,1,0,NA,NA,Argentina
+16 Jul 1930,Montevideo ,Chile,Mexico,3,0,NA,NA,Chile
+19 Jul 1930,Montevideo ,Chile,France,1,0,NA,NA,Chile
+19 Jul 1930,Montevideo ,Argentina,Mexico,6,3,NA,NA,Argentina
+22 Jul 1930,Montevideo ,Argentina,Chile,3,1,NA,NA,Argentina
+14 Jul 1930,Montevideo ,Yugoslavia,Brazil,2,1,NA,NA,Yugoslavia
+17 Jul 1930,Montevideo ,Yugoslavia,Bolivia,4,0,NA,NA,Yugoslavia
+20 Jul 1930,Montevideo ,Brazil,Bolivia,4,0,NA,NA,Brazil
+14 Jul 1930,Montevideo ,Romania,Peru,3,1,NA,NA,Romania
+18 Jul 1930,Montevideo ,Uruguay,Peru,1,0,NA,NA,Uruguay
+21 Jul 1930,Montevideo ,Uruguay,Romania,4,0,NA,NA,Uruguay
+13 Jul 1930,Montevideo ,USA,Belgium,3,0,NA,NA,USA
+17 Jul 1930,Montevideo ,USA,Paraguay,3,0,NA,NA,USA
+20 Jul 1930,Montevideo ,Paraguay,Belgium,1,0,NA,NA,Paraguay
+26 Jul 1930,Montevideo ,Argentina,USA,6,1,NA,NA,Argentina
+27 Jul 1930,Montevideo ,Uruguay,Yugoslavia,6,1,NA,NA,Uruguay
+30 Jul 1930,Montevideo ,Uruguay,Argentina,4,2,NA,NA,Uruguay
+27 May 1934,Bologna ,Sweden,Argentina,3,2,NA,NA,Sweden
+27 May 1934,Turin ,Austria,France,3,2,NA,NA,Austria
+27 May 1934,Florence ,Germany,Belgium,5,2,NA,NA,Germany
+27 May 1934,Genoa ,Spain,Brazil,3,1,NA,NA,Spain
+27 May 1934,Naples ,Hungary,Egypt,4,2,NA,NA,Hungary
+27 May 1934,Milan ,Switzerland,Netherlands,3,2,NA,NA,Switzerland
+27 May 1934,Rome ,Italy,USA,7,1,NA,NA,Italy
+27 May 1934,Trieste ,Czechoslovakia,Romania,2,1,NA,NA,Czechoslovakia
+31 May 1934,Turin ,Czechoslovakia,Switzerland,3,2,NA,NA,Czechoslovakia
+31 May 1934,Milan ,Germany,Sweden,2,1,NA,NA,Germany
+31 May 1934,Florence ,Italy,Spain,1,1,NA,NA,D
+31 May 1934,Bologna ,Austria,Hungary,2,1,NA,NA,Austria
+01 Jun 1934,Florence ,Italy,Spain,1,0,NA,NA,Italy
+03 Jun 1934,Milan ,Italy,Austria,1,0,NA,NA,Italy
+03 Jun 1934,Rome ,Czechoslovakia,Germany,3,1,NA,NA,Czechoslovakia
+07 Jun 1934,Naples ,Germany,Austria,3,2,NA,NA,Germany
+10 Jun 1934,Rome ,Italy,Czechoslovakia,2,1,NA,NA,Italy
+04 Jun 1938,Paris ,Switzerland,Germany,1,1,NA,NA,D
+05 Jun 1938,Reims ,Hungary,Dutch East Indies,6,0,NA,NA,Hungary
+05 Jun 1938,Paris/Colombes ,France,Belgium,3,1,NA,NA,France
+05 Jun 1938,Toulouse ,Cuba,Romania,3,3,NA,NA,D
+05 Jun 1938,Marseilles ,Italy,Norway,2,1,NA,NA,Italy
+05 Jun 1938,Strasbourg ,Brazil,Poland,6,5,NA,NA,Brazil
+05 Jun 1938,Le Havre ,Czechoslovakia,Netherlands,3,0,NA,NA,Czechoslovakia
+09 Jun 1938,Toulouse ,Cuba,Romania,2,1,NA,NA,Cuba
+09 Jun 1938,Paris ,Switzerland,Germany,4,2,NA,NA,Switzerland
+12 Jun 1938,Bordeaux ,Brazil,Czechoslovakia,1,1,NA,NA,D
+12 Jun 1938,Lille ,Hungary,Switzerland,2,0,NA,NA,Hungary
+12 Jun 1938,Antibes ,Sweden,Cuba,8,0,NA,NA,Sweden
+12 Jun 1938,Paris/Colombes ,Italy,France,3,1,NA,NA,Italy
+14 Jun 1938,Bordeaux ,Brazil,Czechoslovakia,2,1,NA,NA,Brazil
+16 Jun 1938,Paris ,Hungary,Sweden,5,1,NA,NA,Hungary
+16 Jun 1938,Marseilles ,Italy,Brazil,2,1,NA,NA,Italy
+19 Jun 1938,Bordeaux ,Brazil,Sweden,4,2,NA,NA,Brazil
+19 Jun 1938,Paris/Colombes ,Italy,Hungary,4,2,NA,NA,Italy
+24 Jun 1950,Rio De Janeiro ,Brazil,Mexico,4,0,NA,NA,Brazil
+25 Jun 1950,Belo Horizonte ,Yugoslavia,Switzerland,3,0,NA,NA,Yugoslavia
+28 Jun 1950,Sao Paulo ,Brazil,Switzerland,2,2,NA,NA,D
+28 Jun 1950,Porto Alegre ,Yugoslavia,Mexico,4,1,NA,NA,Yugoslavia
+01 Jul 1950,Rio De Janeiro ,Brazil,Yugoslavia,2,0,NA,NA,Brazil
+02 Jul 1950,Porto Alegre ,Switzerland,Mexico,2,1,NA,NA,Switzerland
+25 Jun 1950,Rio De Janeiro ,England,Chile,2,0,NA,NA,England
+25 Jun 1950,Curitiba ,Spain,USA,3,1,NA,NA,Spain
+29 Jun 1950,Rio De Janeiro ,Spain,Chile,2,0,NA,NA,Spain
+29 Jun 1950,Belo Horizonte ,USA,England,1,0,NA,NA,USA
+02 Jul 1950,Rio De Janeiro ,Spain,England,1,0,NA,NA,Spain
+02 Jul 1950,Recife ,Chile,USA,5,2,NA,NA,Chile
+25 Jun 1950,Sao Paulo ,Sweden,Italy,3,2,NA,NA,Sweden
+29 Jun 1950,Curitiba ,Sweden,Paraguay,2,2,NA,NA,D
+02 Jul 1950,Sao Paulo ,Italy,Paraguay,2,0,NA,NA,Italy
+02 Jul 1950,Belo Horizonte ,Uruguay,Bolivia,8,0,NA,NA,Uruguay
+09 Jul 1950,Sao Paulo ,Uruguay,Spain,2,2,NA,NA,D
+09 Jul 1950,Rio De Janeiro ,Brazil,Sweden,7,1,NA,NA,Brazil
+13 Jul 1950,Rio De Janeiro ,Brazil,Spain,6,1,NA,NA,Brazil
+13 Jul 1950,Sao Paulo ,Uruguay,Sweden,3,2,NA,NA,Uruguay
+16 Jul 1950,Sao Paulo ,Sweden,Spain,3,1,NA,NA,Sweden
+16 Jul 1950,Rio De Janeiro ,Uruguay,Brazil,2,1,NA,NA,Uruguay
+16 Jun 1954,Geneva ,Brazil,Mexico,5,0,NA,NA,Brazil
+16 Jun 1954,Lausanne ,Yugoslavia,France,1,0,NA,NA,Yugoslavia
+19 Jun 1954,Lausanne ,Brazil,Yugoslavia,1,1,NA,NA,D
+19 Jun 1954,Geneva ,France,Mexico,3,2,NA,NA,France
+17 Jun 1954,Berne ,Germany FR,Turkey,4,1,NA,NA,Germany FR
+17 Jun 1954,Zurich ,Hungary,Korea Republic,9,0,NA,NA,Hungary
+20 Jun 1954,Basel ,Hungary,Germany FR,8,3,NA,NA,Hungary
+20 Jun 1954,Geneva ,Turkey,Korea Republic,7,0,NA,NA,Turkey
+23 Jun 1954,Zurich ,Germany FR,Turkey,7,2,NA,NA,Germany FR
+16 Jun 1954,Berne ,Uruguay,Czechoslovakia,2,0,NA,NA,Uruguay
+16 Jun 1954,Zurich ,Austria,Scotland,1,0,NA,NA,Austria
+19 Jun 1954,Zurich ,Austria,Czechoslovakia,5,0,NA,NA,Austria
+19 Jun 1954,Basel ,Uruguay,Scotland,7,0,NA,NA,Uruguay
+17 Jun 1954,Basel ,England,Belgium,4,4,NA,NA,D
+17 Jun 1954,Lausanne ,Switzerland,Italy,2,1,NA,NA,Switzerland
+20 Jun 1954,Berne ,England,Switzerland,2,0,NA,NA,England
+20 Jun 1954,Lugano ,Italy,Belgium,4,1,NA,NA,Italy
+23 Jun 1954,Basel ,Switzerland,Italy,4,1,NA,NA,Switzerland
+27 Jun 1954,Geneva ,Germany FR,Yugoslavia,2,0,NA,NA,Germany FR
+27 Jun 1954,Berne ,Hungary,Brazil,4,2,NA,NA,Hungary
+26 Jun 1954,Lausanne ,Austria,Switzerland,7,5,NA,NA,Austria
+26 Jun 1954,Basel ,Uruguay,England,4,2,NA,NA,Uruguay
+30 Jun 1954,Basel ,Germany FR,Austria,6,1,NA,NA,Germany FR
+30 Jun 1954,Lausanne ,Hungary,Uruguay,4,2,NA,NA,Hungary
+03 Jul 1954,Zurich ,Austria,Uruguay,3,1,NA,NA,Austria
+04 Jul 1954,Berne ,Germany FR,Hungary,3,2,NA,NA,Germany FR
+08 Jun 1958,Malm ,Argentina,Germany FR,1,3,NA,NA,Germany FR
+08 Jun 1958,Halmstad ,Northern Ireland,Czechoslovakia,1,0,NA,NA,Northern Ireland
+11 Jun 1958,Helsingborg ,Germany FR,Czechoslovakia,2,2,NA,NA,D
+11 Jun 1958,Halmstad ,Argentina,Northern Ireland,3,1,NA,NA,Argentina
+15 Jun 1958,Malm ,Germany FR,Northern Ireland,2,2,NA,NA,D
+15 Jun 1958,Helsingborg ,Czechoslovakia,Argentina,6,1,NA,NA,Czechoslovakia
+17 Jun 1958,Malm ,Northern Ireland,Czechoslovakia,2,1,NA,NA,Northern Ireland
+08 Jun 1958,NorrkPing ,France,Paraguay,7,3,NA,NA,France
+08 Jun 1958,Vasteras ,Yugoslavia,Scotland,1,1,NA,NA,D
+11 Jun 1958,NorrkPing ,Paraguay,Scotland,3,2,NA,NA,Paraguay
+11 Jun 1958,Vasteras ,Yugoslavia,France,3,2,NA,NA,Yugoslavia
+15 Jun 1958,Eskilstuna ,Paraguay,Yugoslavia,3,3,NA,NA,D
+15 Jun 1958,Orebro ,France,Scotland,2,1,NA,NA,France
+08 Jun 1958,Solna ,Sweden,Mexico,3,0,NA,NA,Sweden
+08 Jun 1958,Sandviken ,Hungary,Wales,1,1,NA,NA,D
+11 Jun 1958,Solna ,Mexico,Wales,1,1,NA,NA,D
+12 Jun 1958,Solna ,Sweden,Hungary,2,1,NA,NA,Sweden
+15 Jun 1958,Solna ,Sweden,Wales,0,0,NA,NA,D
+15 Jun 1958,Sandviken ,Hungary,Mexico,4,0,NA,NA,Hungary
+17 Jun 1958,Solna ,Wales,Hungary,2,1,NA,NA,Wales
+08 Jun 1958,Gothenburg ,Soviet Union,England,2,2,NA,NA,D
+08 Jun 1958,Udevalla ,Brazil,Austria,3,0,NA,NA,Brazil
+11 Jun 1958,Gothenburg ,Brazil,England,0,0,NA,NA,D
+11 Jun 1958,Boras ,Soviet Union,Austria,2,0,NA,NA,Soviet Union
+15 Jun 1958,Gothenburg ,Brazil,Soviet Union,2,0,NA,NA,Brazil
+15 Jun 1958,Boras ,England,Austria,2,2,NA,NA,D
+17 Jun 1958,Gothenburg ,Soviet Union,England,1,0,NA,NA,Soviet Union
+19 Jun 1958,Solna ,Sweden,Soviet Union,2,0,NA,NA,Sweden
+19 Jun 1958,NorrkPing ,France,Northern Ireland,4,0,NA,NA,France
+19 Jun 1958,Gothenburg ,Brazil,Wales,1,0,NA,NA,Brazil
+19 Jun 1958,Malm ,Germany FR,Yugoslavia,1,0,NA,NA,Germany FR
+24 Jun 1958,Solna ,Brazil,France,5,2,NA,NA,Brazil
+24 Jun 1958,Gothenburg ,Sweden,Germany FR,3,1,NA,NA,Sweden
+28 Jun 1958,Gothenburg ,France,Germany FR,6,3,NA,NA,France
+29 Jun 1958,Solna ,Brazil,Sweden,5,2,NA,NA,Brazil
+30 May 1962,Arica ,Uruguay,Colombia,2,1,NA,NA,Uruguay
+31 May 1962,Arica ,Soviet Union,Yugoslavia,2,0,NA,NA,Soviet Union
+02 Jun 1962,Arica ,Yugoslavia,Uruguay,3,1,NA,NA,Yugoslavia
+03 Jun 1962,Arica ,Soviet Union,Colombia,4,4,NA,NA,D
+06 Jun 1962,Arica ,Soviet Union,Uruguay,2,1,NA,NA,Soviet Union
+07 Jun 1962,Arica ,Yugoslavia,Colombia,5,0,NA,NA,Yugoslavia
+30 May 1962,Santiago De Chile ,Chile,Switzerland,3,1,NA,NA,Chile
+31 May 1962,Santiago De Chile ,Germany FR,Italy,0,0,NA,NA,D
+02 Jun 1962,Santiago De Chile ,Chile,Italy,2,0,NA,NA,Chile
+03 Jun 1962,Santiago De Chile ,Germany FR,Switzerland,2,1,NA,NA,Germany FR
+06 Jun 1962,Santiago De Chile ,Germany FR,Chile,2,0,NA,NA,Germany FR
+07 Jun 1962,Santiago De Chile ,Italy,Switzerland,3,0,NA,NA,Italy
+30 May 1962,Vina Del Mar ,Brazil,Mexico,2,0,NA,NA,Brazil
+31 May 1962,Vina Del Mar ,Czechoslovakia,Spain,1,0,NA,NA,Czechoslovakia
+02 Jun 1962,Vina Del Mar ,Brazil,Czechoslovakia,0,0,NA,NA,D
+03 Jun 1962,Vina Del Mar ,Spain,Mexico,1,0,NA,NA,Spain
+06 Jun 1962,Vina Del Mar ,Brazil,Spain,2,1,NA,NA,Brazil
+07 Jun 1962,Vina Del Mar ,Mexico,Czechoslovakia,3,1,NA,NA,Mexico
+30 May 1962,Rancagua ,Argentina,Bulgaria,1,0,NA,NA,Argentina
+31 May 1962,Rancagua ,Hungary,England,2,1,NA,NA,Hungary
+02 Jun 1962,Rancagua ,England,Argentina,3,1,NA,NA,England
+03 Jun 1962,Rancagua ,Hungary,Bulgaria,6,1,NA,NA,Hungary
+06 Jun 1962,Rancagua ,Hungary,Argentina,0,0,NA,NA,D
+07 Jun 1962,Rancagua ,England,Bulgaria,0,0,NA,NA,D
+10 Jun 1962,Arica ,Chile,Soviet Union,2,1,NA,NA,Chile
+10 Jun 1962,Santiago De Chile ,Yugoslavia,Germany FR,1,0,NA,NA,Yugoslavia
+10 Jun 1962,Vina Del Mar ,Brazil,England,3,1,NA,NA,Brazil
+10 Jun 1962,Rancagua ,Czechoslovakia,Hungary,1,0,NA,NA,Czechoslovakia
+13 Jun 1962,Santiago De Chile ,Brazil,Chile,4,2,NA,NA,Brazil
+13 Jun 1962,Vina Del Mar ,Czechoslovakia,Yugoslavia,3,1,NA,NA,Czechoslovakia
+16 Jun 1962,Santiago De Chile ,Chile,Yugoslavia,1,0,NA,NA,Chile
+17 Jun 1962,Santiago De Chile ,Brazil,Czechoslovakia,3,1,NA,NA,Brazil
+11 Jul 1966,London ,England,Uruguay,0,0,NA,NA,D
+13 Jul 1966,London ,France,Mexico,1,1,NA,NA,D
+15 Jul 1966,London ,Uruguay,France,2,1,NA,NA,Uruguay
+16 Jul 1966,London ,England,Mexico,2,0,NA,NA,England
+19 Jul 1966,London ,Uruguay,Mexico,0,0,NA,NA,D
+20 Jul 1966,London ,England,France,2,0,NA,NA,England
+12 Jul 1966,Sheffield ,Germany FR,Switzerland,5,0,NA,NA,Germany FR
+13 Jul 1966,Birmingham ,Argentina,Spain,2,1,NA,NA,Argentina
+15 Jul 1966,Sheffield ,Spain,Switzerland,2,1,NA,NA,Spain
+16 Jul 1966,Birmingham ,Germany FR,Argentina,0,0,NA,NA,D
+19 Jul 1966,Sheffield ,Argentina,Switzerland,2,0,NA,NA,Argentina
+20 Jul 1966,Birmingham ,Germany FR,Spain,2,1,NA,NA,Germany FR
+12 Jul 1966,Liverpool ,Brazil,Bulgaria,2,0,NA,NA,Brazil
+13 Jul 1966,Manchester ,Portugal,Hungary,3,1,NA,NA,Portugal
+15 Jul 1966,Liverpool ,Hungary,Brazil,3,1,NA,NA,Hungary
+16 Jul 1966,Manchester ,Portugal,Bulgaria,3,0,NA,NA,Portugal
+19 Jul 1966,Liverpool ,Portugal,Brazil,3,1,NA,NA,Portugal
+20 Jul 1966,Manchester ,Hungary,Bulgaria,3,1,NA,NA,Hungary
+12 Jul 1966,Middlesbrough ,Soviet Union,Korea DPR,3,0,NA,NA,Soviet Union
+13 Jul 1966,Sunderland ,Italy,Chile,2,0,NA,NA,Italy
+15 Jul 1966,Middlesbrough ,Korea DPR,Chile,1,1,NA,NA,D
+16 Jul 1966,Sunderland ,Soviet Union,Italy,1,0,NA,NA,Soviet Union
+19 Jul 1966,Middlesbrough ,Korea DPR,Italy,1,0,NA,NA,Korea DPR
+20 Jul 1966,Sunderland ,Soviet Union,Chile,2,1,NA,NA,Soviet Union
+23 Jul 1966,London ,England,Argentina,1,0,NA,NA,England
+23 Jul 1966,Sheffield ,Germany FR,Uruguay,4,0,NA,NA,Germany FR
+23 Jul 1966,Sunderland ,Soviet Union,Hungary,2,1,NA,NA,Soviet Union
+23 Jul 1966,Liverpool ,Portugal,Korea DPR,5,3,NA,NA,Portugal
+25 Jul 1966,Liverpool ,Germany FR,Soviet Union,2,1,NA,NA,Germany FR
+26 Jul 1966,London ,England,Portugal,2,1,NA,NA,England
+28 Jul 1966,London ,Portugal,Soviet Union,2,1,NA,NA,Portugal
+30 Jul 1966,London ,England,Germany FR,4,2,NA,NA,England
+31 May 1970,Mexico City ,Mexico,Soviet Union,0,0,NA,NA,D
+03 Jun 1970,Mexico City ,Belgium,El Salvador,3,0,NA,NA,Belgium
+06 Jun 1970,Mexico City ,Soviet Union,Belgium,4,1,NA,NA,Soviet Union
+07 Jun 1970,Mexico City ,Mexico,El Salvador,4,0,NA,NA,Mexico
+10 Jun 1970,Mexico City ,Soviet Union,El Salvador,2,0,NA,NA,Soviet Union
+11 Jun 1970,Mexico City ,Mexico,Belgium,1,0,NA,NA,Mexico
+02 Jun 1970,Puebla ,Uruguay,Israel,2,0,NA,NA,Uruguay
+03 Jun 1970,Toluca ,Italy,Sweden,1,0,NA,NA,Italy
+06 Jun 1970,Puebla ,Uruguay,Italy,0,0,NA,NA,D
+07 Jun 1970,Toluca ,Sweden,Israel,1,1,NA,NA,D
+10 Jun 1970,Puebla ,Sweden,Uruguay,1,0,NA,NA,Sweden
+11 Jun 1970,Toluca ,Italy,Israel,0,0,NA,NA,D
+02 Jun 1970,Guadalajara ,England,Romania,1,0,NA,NA,England
+03 Jun 1970,Guadalajara ,Brazil,Czechoslovakia,4,1,NA,NA,Brazil
+06 Jun 1970,Guadalajara ,Romania,Czechoslovakia,2,1,NA,NA,Romania
+07 Jun 1970,Guadalajara ,Brazil,England,1,0,NA,NA,Brazil
+10 Jun 1970,Guadalajara ,Brazil,Romania,3,2,NA,NA,Brazil
+11 Jun 1970,Guadalajara ,England,Czechoslovakia,1,0,NA,NA,England
+02 Jun 1970,Leon ,Peru,Bulgaria,3,2,NA,NA,Peru
+03 Jun 1970,Leon ,Germany FR,Morocco,2,1,NA,NA,Germany FR
+06 Jun 1970,Leon ,Peru,Morocco,3,0,NA,NA,Peru
+07 Jun 1970,Leon ,Germany FR,Bulgaria,5,2,NA,NA,Germany FR
+10 Jun 1970,Leon ,Germany FR,Peru,3,1,NA,NA,Germany FR
+11 Jun 1970,Leon ,Bulgaria,Morocco,1,1,NA,NA,D
+14 Jun 1970,Mexico City ,Uruguay,Soviet Union,1,0,NA,NA,Uruguay
+14 Jun 1970,Toluca ,Italy,Mexico,4,1,NA,NA,Italy
+14 Jun 1970,Guadalajara ,Brazil,Peru,4,2,NA,NA,Brazil
+14 Jun 1970,Leon ,Germany FR,England,3,2,NA,NA,Germany FR
+17 Jun 1970,Guadalajara ,Brazil,Uruguay,3,1,NA,NA,Brazil
+17 Jun 1970,Mexico City ,Italy,Germany FR,4,3,NA,NA,Italy
+20 Jun 1970,Mexico City ,Germany FR,Uruguay,1,0,NA,NA,Germany FR
+21 Jun 1970,Mexico City ,Brazil,Italy,4,1,NA,NA,Brazil
+14 Jun 1974,Berlin West ,Germany FR,Chile,1,0,NA,NA,Germany FR
+14 Jun 1974,Hamburg ,German DR,Australia,2,0,NA,NA,German DR
+18 Jun 1974,Berlin West ,Chile,German DR,1,1,NA,NA,D
+18 Jun 1974,Hamburg ,Australia,Germany FR,0,3,NA,NA,Germany FR
+22 Jun 1974,Berlin West ,Australia,Chile,0,0,NA,NA,D
+22 Jun 1974,Hamburg ,German DR,Germany FR,1,0,NA,NA,German DR
+13 Jun 1974,Frankfurt/Main ,Brazil,Yugoslavia,0,0,NA,NA,D
+14 Jun 1974,Dortmund ,Zaire,Scotland,0,2,NA,NA,Scotland
+18 Jun 1974,Gelsenkirchen ,Yugoslavia,Zaire,9,0,NA,NA,Yugoslavia
+18 Jun 1974,Frankfurt/Main ,Scotland,Brazil,0,0,NA,NA,D
+22 Jun 1974,Frankfurt/Main ,Scotland,Yugoslavia,1,1,NA,NA,D
+22 Jun 1974,Gelsenkirchen ,Zaire,Brazil,0,3,NA,NA,Brazil
+15 Jun 1974,Hanover ,Uruguay,Netherlands,0,2,NA,NA,Netherlands
+15 Jun 1974,DSseldorf ,Sweden,Bulgaria,0,0,NA,NA,D
+19 Jun 1974,Dortmund ,Netherlands,Sweden,0,0,NA,NA,D
+19 Jun 1974,Hanover ,Bulgaria,Uruguay,1,1,NA,NA,D
+23 Jun 1974,Dortmund ,Bulgaria,Netherlands,1,4,NA,NA,Netherlands
+23 Jun 1974,DSseldorf ,Sweden,Uruguay,3,0,NA,NA,Sweden
+15 Jun 1974,Munich ,Italy,Haiti,3,1,NA,NA,Italy
+15 Jun 1974,Stuttgart ,Poland,Argentina,3,2,NA,NA,Poland
+19 Jun 1974,Munich ,Haiti,Poland,0,7,NA,NA,Poland
+19 Jun 1974,Stuttgart ,Argentina,Italy,1,1,NA,NA,D
+23 Jun 1974,Munich ,Argentina,Haiti,4,1,NA,NA,Argentina
+23 Jun 1974,Stuttgart ,Poland,Italy,2,1,NA,NA,Poland
+26 Jun 1974,Hanover ,Brazil,German DR,1,0,NA,NA,Brazil
+26 Jun 1974,Gelsenkirchen ,Netherlands,Argentina,4,0,NA,NA,Netherlands
+30 Jun 1974,Gelsenkirchen ,German DR,Netherlands,0,2,NA,NA,Netherlands
+30 Jun 1974,Hanover ,Argentina,Brazil,1,2,NA,NA,Brazil
+03 Jul 1974,Gelsenkirchen ,Argentina,German DR,1,1,NA,NA,D
+03 Jul 1974,Dortmund ,Netherlands,Brazil,2,0,NA,NA,Netherlands
+26 Jun 1974,DSseldorf ,Yugoslavia,Germany FR,0,2,NA,NA,Germany FR
+26 Jun 1974,Stuttgart ,Sweden,Poland,0,1,NA,NA,Poland
+30 Jun 1974,DSseldorf ,Germany FR,Sweden,4,2,NA,NA,Germany FR
+30 Jun 1974,Frankfurt/Main ,Poland,Yugoslavia,2,1,NA,NA,Poland
+03 Jul 1974,Frankfurt/Main ,Poland,Germany FR,0,1,NA,NA,Germany FR
+03 Jul 1974,DSseldorf ,Sweden,Yugoslavia,2,1,NA,NA,Sweden
+06 Jul 1974,Munich ,Brazil,Poland,0,1,NA,NA,Poland
+07 Jul 1974,Munich ,Netherlands,Germany FR,1,2,NA,NA,Germany FR
+02 Jun 1978,Buenos Aires ,Argentina,Hungary,2,1,NA,NA,Argentina
+02 Jun 1978,Mar Del Plata ,Italy,France,2,1,NA,NA,Italy
+06 Jun 1978,Buenos Aires ,Argentina,France,2,1,NA,NA,Argentina
+06 Jun 1978,Mar Del Plata ,Italy,Hungary,3,1,NA,NA,Italy
+10 Jun 1978,Buenos Aires ,Italy,Argentina,1,0,NA,NA,Italy
+10 Jun 1978,Mar Del Plata ,France,Hungary,3,1,NA,NA,France
+01 Jun 1978,Buenos Aires ,Germany FR,Poland,0,0,NA,NA,D
+02 Jun 1978,Rosario ,Tunisia,Mexico,3,1,NA,NA,Tunisia
+06 Jun 1978,Rosario ,Poland,Tunisia,1,0,NA,NA,Poland
+06 Jun 1978,Cordoba ,Germany FR,Mexico,6,0,NA,NA,Germany FR
+10 Jun 1978,Rosario ,Poland,Mexico,3,1,NA,NA,Poland
+10 Jun 1978,Cordoba ,Germany FR,Tunisia,0,0,NA,NA,D
+03 Jun 1978,Buenos Aires ,Austria,Spain,2,1,NA,NA,Austria
+03 Jun 1978,Mar Del Plata ,Sweden,Brazil,1,1,NA,NA,D
+07 Jun 1978,Buenos Aires ,Austria,Sweden,1,0,NA,NA,Austria
+07 Jun 1978,Mar Del Plata ,Brazil,Spain,0,0,NA,NA,D
+11 Jun 1978,Buenos Aires ,Spain,Sweden,1,0,NA,NA,Spain
+11 Jun 1978,Mar Del Plata ,Brazil,Austria,1,0,NA,NA,Brazil
+03 Jun 1978,Cordoba ,Peru,Scotland,3,1,NA,NA,Peru
+03 Jun 1978,Mendoza ,Netherlands,Iran,3,0,NA,NA,Netherlands
+07 Jun 1978,Cordoba ,Scotland,Iran,1,1,NA,NA,D
+07 Jun 1978,Mendoza ,Netherlands,Peru,0,0,NA,NA,D
+11 Jun 1978,Cordoba ,Peru,Iran,4,1,NA,NA,Peru
+11 Jun 1978,Mendoza ,Scotland,Netherlands,3,2,NA,NA,Scotland
+14 Jun 1978,Buenos Aires ,Germany FR,Italy,0,0,NA,NA,D
+14 Jun 1978,Cordoba ,Netherlands,Austria,5,1,NA,NA,Netherlands
+18 Jun 1978,Buenos Aires ,Italy,Austria,1,0,NA,NA,Italy
+18 Jun 1978,Cordoba ,Germany FR,Netherlands,2,2,NA,NA,D
+21 Jun 1978,Buenos Aires ,Netherlands,Italy,2,1,NA,NA,Netherlands
+21 Jun 1978,Cordoba ,Austria,Germany FR,3,2,NA,NA,Austria
+14 Jun 1978,Rosario ,Argentina,Poland,2,0,NA,NA,Argentina
+14 Jun 1978,Mendoza ,Brazil,Peru,3,0,NA,NA,Brazil
+18 Jun 1978,Rosario ,Argentina,Brazil,0,0,NA,NA,D
+18 Jun 1978,Mendoza ,Poland,Peru,1,0,NA,NA,Poland
+21 Jun 1978,Rosario ,Argentina,Peru,6,0,NA,NA,Argentina
+21 Jun 1978,Mendoza ,Brazil,Poland,3,1,NA,NA,Brazil
+24 Jun 1978,Buenos Aires ,Brazil,Italy,2,1,NA,NA,Brazil
+25 Jun 1978,Buenos Aires ,Argentina,Netherlands,3,1,NA,NA,Argentina
+14 Jun 1982,Vigo ,Italy,Poland,0,0,NA,NA,D
+15 Jun 1982,La CoruA ,Peru,Cameroon,0,0,NA,NA,D
+18 Jun 1982,Vigo ,Italy,Peru,1,1,NA,NA,D
+19 Jun 1982,La CoruA ,Poland,Cameroon,0,0,NA,NA,D
+22 Jun 1982,La CoruA ,Poland,Peru,5,1,NA,NA,Poland
+23 Jun 1982,Vigo ,Italy,Cameroon,1,1,NA,NA,D
+16 Jun 1982,Gijon ,Germany FR,Algeria,1,2,NA,NA,Algeria
+17 Jun 1982,Oviedo ,Chile,Austria,0,1,NA,NA,Austria
+20 Jun 1982,Gijon ,Germany FR,Chile,4,1,NA,NA,Germany FR
+21 Jun 1982,Oviedo ,Algeria,Austria,0,2,NA,NA,Austria
+24 Jun 1982,Oviedo ,Algeria,Chile,3,2,NA,NA,Algeria
+25 Jun 1982,Gijon ,Germany FR,Austria,1,0,NA,NA,Germany FR
+13 Jun 1982,Barcelona ,Argentina,Belgium,0,1,NA,NA,Belgium
+15 Jun 1982,Elche ,Hungary,El Salvador,10,1,NA,NA,Hungary
+18 Jun 1982,Alicante ,Argentina,Hungary,4,1,NA,NA,Argentina
+19 Jun 1982,Elche ,Belgium,El Salvador,1,0,NA,NA,Belgium
+22 Jun 1982,Elche ,Belgium,Hungary,1,1,NA,NA,D
+23 Jun 1982,Alicante ,Argentina,El Salvador,2,0,NA,NA,Argentina
+16 Jun 1982,Bilbao ,England,France,3,1,NA,NA,England
+17 Jun 1982,Valladolid ,Czechoslovakia,Kuwait,1,1,NA,NA,D
+20 Jun 1982,Bilbao ,England,Czechoslovakia,2,0,NA,NA,England
+21 Jun 1982,Valladolid ,France,Kuwait,4,1,NA,NA,France
+24 Jun 1982,Valladolid ,France,Czechoslovakia,1,1,NA,NA,D
+25 Jun 1982,Bilbao ,England,Kuwait,1,0,NA,NA,England
+16 Jun 1982,Valencia ,Spain,Honduras,1,1,NA,NA,D
+17 Jun 1982,Zaragoza ,Yugoslavia,Northern Ireland,0,0,NA,NA,D
+20 Jun 1982,Valencia ,Spain,Yugoslavia,2,1,NA,NA,Spain
+21 Jun 1982,Zaragoza ,Honduras,Northern Ireland,1,1,NA,NA,D
+24 Jun 1982,Zaragoza ,Honduras,Yugoslavia,0,1,NA,NA,Yugoslavia
+25 Jun 1982,Valencia ,Northern Ireland,Spain,1,0,NA,NA,Northern Ireland
+14 Jun 1982,Seville ,Brazil,Soviet Union,2,1,NA,NA,Brazil
+15 Jun 1982,Malaga ,Scotland,New Zealand,5,2,NA,NA,Scotland
+18 Jun 1982,Seville ,Brazil,Scotland,4,1,NA,NA,Brazil
+19 Jun 1982,Malaga ,Soviet Union,New Zealand,3,0,NA,NA,Soviet Union
+22 Jun 1982,Malaga ,Soviet Union,Scotland,2,2,NA,NA,D
+23 Jun 1982,Seville ,Brazil,New Zealand,4,0,NA,NA,Brazil
+28 Jun 1982,Barcelona ,Poland,Belgium,3,0,NA,NA,Poland
+01 Jul 1982,Barcelona ,Belgium,Soviet Union,0,1,NA,NA,Soviet Union
+04 Jul 1982,Barcelona ,Poland,Soviet Union,0,0,NA,NA,D
+29 Jun 1982,Madrid ,Germany FR,England,0,0,NA,NA,D
+02 Jul 1982,Madrid ,Germany FR,Spain,2,1,NA,NA,Germany FR
+05 Jul 1982,Madrid ,Spain,England,0,0,NA,NA,D
+29 Jun 1982,Barcelona ,Italy,Argentina,2,1,NA,NA,Italy
+02 Jul 1982,Barcelona ,Argentina,Brazil,1,3,NA,NA,Brazil
+05 Jul 1982,Barcelona ,Italy,Brazil,3,2,NA,NA,Italy
+28 Jun 1982,Madrid ,Austria,France,0,1,NA,NA,France
+01 Jul 1982,Madrid ,Austria,Northern Ireland,2,2,NA,NA,D
+04 Jul 1982,Madrid ,France,Northern Ireland,4,1,NA,NA,France
+08 Jul 1982,Barcelona ,Poland,Italy,0,2,NA,NA,Italy
+08 Jul 1982,Seville ,Germany FR,France,3,3,5,4,Germany FR
+10 Jul 1982,Alicante ,Poland,France,3,2,NA,NA,Poland
+11 Jul 1982,Madrid ,Italy,Germany FR,3,1,NA,NA,Italy
+31 May 1986,Mexico City ,Bulgaria,Italy,1,1,NA,NA,D
+02 Jun 1986,Mexico City ,Argentina,Korea Republic,3,1,NA,NA,Argentina
+05 Jun 1986,Puebla ,Italy,Argentina,1,1,NA,NA,D
+05 Jun 1986,Mexico City ,Korea Republic,Bulgaria,1,1,NA,NA,D
+10 Jun 1986,Puebla ,Korea Republic,Italy,2,3,NA,NA,Italy
+10 Jun 1986,Mexico City ,Argentina,Bulgaria,2,0,NA,NA,Argentina
+03 Jun 1986,Mexico City ,Belgium,Mexico,1,2,NA,NA,Mexico
+04 Jun 1986,Toluca ,Paraguay,Iraq,1,0,NA,NA,Paraguay
+07 Jun 1986,Mexico City ,Mexico,Paraguay,1,1,NA,NA,D
+08 Jun 1986,Toluca ,Iraq,Belgium,1,2,NA,NA,Belgium
+11 Jun 1986,Mexico City ,Iraq,Mexico,0,1,NA,NA,Mexico
+11 Jun 1986,Toluca ,Paraguay,Belgium,2,2,NA,NA,D
+01 Jun 1986,Leon ,Canada,France,0,1,NA,NA,France
+02 Jun 1986,Irapuato ,Soviet Union,Hungary,6,0,NA,NA,Soviet Union
+05 Jun 1986,Leon ,France,Soviet Union,1,1,NA,NA,D
+06 Jun 1986,Irapuato ,Hungary,Canada,2,0,NA,NA,Hungary
+09 Jun 1986,Leon ,Hungary,France,0,3,NA,NA,France
+09 Jun 1986,Irapuato ,Soviet Union,Canada,2,0,NA,NA,Soviet Union
+01 Jun 1986,Guadalajara ,Spain,Brazil,0,1,NA,NA,Brazil
+03 Jun 1986,Guadalajara ,Algeria,Northern Ireland,1,1,NA,NA,D
+06 Jun 1986,Guadalajara ,Brazil,Algeria,1,0,NA,NA,Brazil
+07 Jun 1986,Guadalajara ,Northern Ireland,Spain,1,2,NA,NA,Spain
+12 Jun 1986,Guadalajara ,Northern Ireland,Brazil,0,3,NA,NA,Brazil
+12 Jun 1986,Monterrey ,Algeria,Spain,0,3,NA,NA,Spain
+04 Jun 1986,Queretaro ,Uruguay,Germany FR,1,1,NA,NA,D
+04 Jun 1986,Nezahualcoyotl ,Scotland,Denmark,0,1,NA,NA,Denmark
+08 Jun 1986,Queretaro ,Germany FR,Scotland,2,1,NA,NA,Germany FR
+08 Jun 1986,Nezahualcoyotl ,Denmark,Uruguay,6,1,NA,NA,Denmark
+13 Jun 1986,Queretaro ,Denmark,Germany FR,2,0,NA,NA,Denmark
+13 Jun 1986,Nezahualcoyotl ,Scotland,Uruguay,0,0,NA,NA,D
+02 Jun 1986,Monterrey ,Morocco,Poland,0,0,NA,NA,D
+03 Jun 1986,Monterrey ,Portugal,England,1,0,NA,NA,Portugal
+06 Jun 1986,Monterrey ,England,Morocco,0,0,NA,NA,D
+07 Jun 1986,Monterrey ,Poland,Portugal,1,0,NA,NA,Poland
+11 Jun 1986,Guadalajara ,Portugal,Morocco,1,3,NA,NA,Morocco
+11 Jun 1986,Monterrey ,England,Poland,3,0,NA,NA,England
+15 Jun 1986,Mexico City ,Mexico,Bulgaria,2,0,NA,NA,Mexico
+15 Jun 1986,Leon ,Soviet Union,Belgium,3,4,NA,NA,Belgium
+16 Jun 1986,Puebla ,Argentina,Uruguay,1,0,NA,NA,Argentina
+16 Jun 1986,Guadalajara ,Brazil,Poland,4,0,NA,NA,Brazil
+17 Jun 1986,Mexico City ,Italy,France,0,2,NA,NA,France
+17 Jun 1986,Monterrey ,Morocco,Germany FR,0,1,NA,NA,Germany FR
+18 Jun 1986,Mexico City ,England,Paraguay,3,0,NA,NA,England
+18 Jun 1986,Queretaro ,Denmark,Spain,1,5,NA,NA,Spain
+21 Jun 1986,Guadalajara ,Brazil,France,1,1,3,4,France
+21 Jun 1986,Monterrey ,Germany FR,Mexico,0,0,4,1,Germany FR
+22 Jun 1986,Puebla ,Spain,Belgium,1,1,4,5,Belgium
+22 Jun 1986,Mexico City ,Argentina,England,2,1,NA,NA,Argentina
+25 Jun 1986,Mexico City ,Argentina,Belgium,2,0,NA,NA,Argentina
+25 Jun 1986,Guadalajara ,France,Germany FR,0,2,NA,NA,Germany FR
+28 Jun 1986,Puebla ,France,Belgium,4,2,NA,NA,France
+29 Jun 1986,Mexico City ,Argentina,Germany FR,3,2,NA,NA,Argentina
+09 Jun 1990,Rome ,Italy,Austria,1,0,NA,NA,Italy
+10 Jun 1990,Florence ,USA,Czechoslovakia,1,5,NA,NA,Czechoslovakia
+14 Jun 1990,Rome ,Italy,USA,1,0,NA,NA,Italy
+15 Jun 1990,Florence ,Austria,Czechoslovakia,0,1,NA,NA,Czechoslovakia
+19 Jun 1990,Rome ,Italy,Czechoslovakia,2,0,NA,NA,Italy
+19 Jun 1990,Florence ,Austria,USA,2,1,NA,NA,Austria
+08 Jun 1990,Milan ,Argentina,Cameroon,0,1,NA,NA,Cameroon
+09 Jun 1990,Bari ,Soviet Union,Romania,0,2,NA,NA,Romania
+13 Jun 1990,Naples ,Argentina,Soviet Union,2,0,NA,NA,Argentina
+14 Jun 1990,Bari ,Cameroon,Romania,2,1,NA,NA,Cameroon
+18 Jun 1990,Naples ,Argentina,Romania,1,1,NA,NA,D
+18 Jun 1990,Bari ,Cameroon,Soviet Union,0,4,NA,NA,Soviet Union
+10 Jun 1990,Turin ,Brazil,Sweden,2,1,NA,NA,Brazil
+11 Jun 1990,Genoa ,Costa Rica,Scotland,1,0,NA,NA,Costa Rica
+16 Jun 1990,Turin ,Brazil,Costa Rica,1,0,NA,NA,Brazil
+16 Jun 1990,Genoa ,Sweden,Scotland,1,2,NA,NA,Scotland
+20 Jun 1990,Turin ,Brazil,Scotland,1,0,NA,NA,Brazil
+20 Jun 1990,Genoa ,Sweden,Costa Rica,1,2,NA,NA,Costa Rica
+09 Jun 1990,Bologna ,United Arab Emirates,Colombia,0,2,NA,NA,Colombia
+10 Jun 1990,Milan ,Germany FR,Yugoslavia,4,1,NA,NA,Germany FR
+14 Jun 1990,Bologna ,Yugoslavia,Colombia,1,0,NA,NA,Yugoslavia
+15 Jun 1990,Milan ,Germany FR,United Arab Emirates,5,1,NA,NA,Germany FR
+19 Jun 1990,Milan ,Germany FR,Colombia,1,1,NA,NA,D
+19 Jun 1990,Bologna ,Yugoslavia,United Arab Emirates,4,1,NA,NA,Yugoslavia
+12 Jun 1990,Verona ,Belgium,Korea Republic,2,0,NA,NA,Belgium
+13 Jun 1990,Udine ,Uruguay,Spain,0,0,NA,NA,D
+17 Jun 1990,Verona ,Belgium,Uruguay,3,1,NA,NA,Belgium
+17 Jun 1990,Udine ,Korea Republic,Spain,1,3,NA,NA,Spain
+21 Jun 1990,Verona ,Belgium,Spain,1,2,NA,NA,Spain
+21 Jun 1990,Udine ,Korea Republic,Uruguay,0,1,NA,NA,Uruguay
+11 Jun 1990,Cagliari ,England,Republic of Ireland,1,1,NA,NA,D
+12 Jun 1990,Palermo ,Netherlands,Egypt,1,1,NA,NA,D
+16 Jun 1990,Cagliari ,England,Netherlands,0,0,NA,NA,D
+17 Jun 1990,Palermo ,Republic of Ireland,Egypt,0,0,NA,NA,D
+21 Jun 1990,Cagliari ,England,Egypt,1,0,NA,NA,England
+21 Jun 1990,Palermo ,Republic of Ireland,Netherlands,1,1,NA,NA,D
+23 Jun 1990,Naples ,Cameroon,Colombia,2,1,NA,NA,Cameroon
+23 Jun 1990,Bari ,Czechoslovakia,Costa Rica,4,1,NA,NA,Czechoslovakia
+24 Jun 1990,Turin ,Brazil,Argentina,0,1,NA,NA,Argentina
+24 Jun 1990,Milan ,Germany FR,Netherlands,2,1,NA,NA,Germany FR
+25 Jun 1990,Genoa ,Republic of Ireland,Romania,0,0,5,4,Republic of Ireland
+25 Jun 1990,Rome ,Italy,Uruguay,2,0,NA,NA,Italy
+26 Jun 1990,Verona ,Spain,Yugoslavia,1,2,NA,NA,Yugoslavia
+26 Jun 1990,Bologna ,England,Belgium,1,0,NA,NA,England
+30 Jun 1990,Florence ,Yugoslavia,Argentina,0,0,2,3,Argentina
+30 Jun 1990,Rome ,Italy,Republic of Ireland,1,0,NA,NA,Italy
+01 Jul 1990,Milan ,Germany FR,Czechoslovakia,1,0,NA,NA,Germany FR
+01 Jul 1990,Naples ,England,Cameroon,3,2,NA,NA,England
+03 Jul 1990,Naples ,Italy,Argentina,1,1,3,4,Argentina
+04 Jul 1990,Turin ,Germany FR,England,1,1,4,3,Germany FR
+07 Jul 1990,Bari ,Italy,England,2,1,NA,NA,Italy
+08 Jul 1990,Rome ,Germany FR,Argentina,1,0,NA,NA,Germany FR
+18 Jun 1994,Detroit ,USA,Switzerland,1,1,NA,NA,D
+18 Jun 1994,Los Angeles ,Colombia,Romania,1,3,NA,NA,Romania
+22 Jun 1994,Detroit ,Romania,Switzerland,1,4,NA,NA,Switzerland
+22 Jun 1994,Los Angeles ,USA,Colombia,2,1,NA,NA,USA
+26 Jun 1994,Los Angeles ,USA,Romania,0,1,NA,NA,Romania
+26 Jun 1994,San Francisco ,Switzerland,Colombia,0,2,NA,NA,Colombia
+19 Jun 1994,Los Angeles ,Cameroon,Sweden,2,2,NA,NA,D
+20 Jun 1994,San Francisco ,Brazil,Russia,2,0,NA,NA,Brazil
+24 Jun 1994,San Francisco ,Brazil,Cameroon,3,0,NA,NA,Brazil
+24 Jun 1994,Detroit ,Sweden,Russia,3,1,NA,NA,Sweden
+28 Jun 1994,San Francisco ,Russia,Cameroon,6,1,NA,NA,Russia
+28 Jun 1994,Detroit ,Brazil,Sweden,1,1,NA,NA,D
+17 Jun 1994,Chicago ,Germany,Bolivia,1,0,NA,NA,Germany
+17 Jun 1994,Dallas ,Spain,Korea Republic,2,2,NA,NA,D
+21 Jun 1994,Chicago ,Germany,Spain,1,1,NA,NA,D
+23 Jun 1994,Boston ,Korea Republic,Bolivia,0,0,NA,NA,D
+27 Jun 1994,Chicago ,Bolivia,Spain,1,3,NA,NA,Spain
+27 Jun 1994,Dallas ,Germany,Korea Republic,3,2,NA,NA,Germany
+21 Jun 1994,Boston ,Argentina,Greece,4,0,NA,NA,Argentina
+21 Jun 1994,Dallas ,Nigeria,Bulgaria,3,0,NA,NA,Nigeria
+25 Jun 1994,Boston ,Argentina,Nigeria,2,1,NA,NA,Argentina
+26 Jun 1994,Chicago ,Bulgaria,Greece,4,0,NA,NA,Bulgaria
+30 Jun 1994,Boston ,Greece,Nigeria,0,2,NA,NA,Nigeria
+30 Jun 1994,Dallas ,Argentina,Bulgaria,0,2,NA,NA,Bulgaria
+18 Jun 1994,New York/New Jersey ,Italy,Republic of Ireland,0,1,NA,NA,Republic of Ireland
+19 Jun 1994,Washington Dc ,Norway,Mexico,1,0,NA,NA,Norway
+23 Jun 1994,New York/New Jersey ,Italy,Norway,1,0,NA,NA,Italy
+24 Jun 1994,Orlando ,Mexico,Republic of Ireland,2,1,NA,NA,Mexico
+28 Jun 1994,New York/New Jersey ,Republic of Ireland,Norway,0,0,NA,NA,D
+28 Jun 1994,Washington Dc ,Italy,Mexico,1,1,NA,NA,D
+19 Jun 1994,Orlando ,Belgium,Morocco,1,0,NA,NA,Belgium
+20 Jun 1994,Washington Dc ,Netherlands,Saudi Arabia,2,1,NA,NA,Netherlands
+25 Jun 1994,Orlando ,Belgium,Netherlands,1,0,NA,NA,Belgium
+25 Jun 1994,New York/New Jersey ,Saudi Arabia,Morocco,2,1,NA,NA,Saudi Arabia
+29 Jun 1994,Orlando ,Morocco,Netherlands,1,2,NA,NA,Netherlands
+29 Jun 1994,Washington Dc ,Belgium,Saudi Arabia,0,1,NA,NA,Saudi Arabia
+02 Jul 1994,Chicago ,Germany,Belgium,3,2,NA,NA,Germany
+02 Jul 1994,Washington Dc ,Spain,Switzerland,3,0,NA,NA,Spain
+03 Jul 1994,Dallas ,Saudi Arabia,Sweden,1,3,NA,NA,Sweden
+03 Jul 1994,Los Angeles ,Romania,Argentina,3,2,NA,NA,Romania
+04 Jul 1994,Orlando ,Netherlands,Republic of Ireland,2,0,NA,NA,Netherlands
+04 Jul 1994,San Francisco ,Brazil,USA,1,0,NA,NA,Brazil
+05 Jul 1994,Boston ,Nigeria,Italy,1,2,NA,NA,Italy
+05 Jul 1994,New York/New Jersey ,Mexico,Bulgaria,1,1,1,3,Bulgaria
+09 Jul 1994,Boston ,Italy,Spain,2,1,NA,NA,Italy
+09 Jul 1994,Dallas ,Netherlands,Brazil,2,3,NA,NA,Brazil
+10 Jul 1994,New York/New Jersey ,Bulgaria,Germany,2,1,NA,NA,Bulgaria
+10 Jul 1994,San Francisco ,Romania,Sweden,2,2,4,5,Sweden
+13 Jul 1994,New York/New Jersey ,Bulgaria,Italy,1,2,NA,NA,Italy
+13 Jul 1994,Los Angeles ,Sweden,Brazil,0,1,NA,NA,Brazil
+16 Jul 1994,Los Angeles ,Sweden,Bulgaria,4,0,NA,NA,Sweden
+17 Jul 1994,Los Angeles ,Brazil,Italy,0,0,3,2,Brazil
+10 Jun 1998,Saint-Denis ,Brazil,Scotland,2,1,NA,NA,Brazil
+10 Jun 1998,Montpellier ,Morocco,Norway,2,2,NA,NA,D
+16 Jun 1998,Bordeaux ,Scotland,Norway,1,1,NA,NA,D
+16 Jun 1998,Nantes ,Brazil,Morocco,3,0,NA,NA,Brazil
+23 Jun 1998,St. Etienne ,Scotland,Morocco,0,3,NA,NA,Morocco
+23 Jun 1998,Marseilles ,Brazil,Norway,1,2,NA,NA,Norway
+11 Jun 1998,Toulouse ,Cameroon,Austria,1,1,NA,NA,D
+11 Jun 1998,Bordeaux ,Italy,Chile,2,2,NA,NA,D
+17 Jun 1998,St. Etienne ,Chile,Austria,1,1,NA,NA,D
+17 Jun 1998,Montpellier ,Italy,Cameroon,3,0,NA,NA,Italy
+23 Jun 1998,Saint-Denis ,Italy,Austria,2,1,NA,NA,Italy
+23 Jun 1998,Nantes ,Chile,Cameroon,1,1,NA,NA,D
+12 Jun 1998,Lens ,Saudi Arabia,Denmark,0,1,NA,NA,Denmark
+12 Jun 1998,Marseilles ,France,South Africa,3,0,NA,NA,France
+18 Jun 1998,Saint-Denis ,France,Saudi Arabia,4,0,NA,NA,France
+18 Jun 1998,Toulouse ,South Africa,Denmark,1,1,NA,NA,D
+24 Jun 1998,Lyon ,France,Denmark,2,1,NA,NA,France
+24 Jun 1998,Bordeaux ,South Africa,Saudi Arabia,2,2,NA,NA,D
+12 Jun 1998,Montpellier ,Paraguay,Bulgaria,0,0,NA,NA,D
+13 Jun 1998,Nantes ,Spain,Nigeria,2,3,NA,NA,Nigeria
+19 Jun 1998,Paris ,Nigeria,Bulgaria,1,0,NA,NA,Nigeria
+19 Jun 1998,St. Etienne ,Spain,Paraguay,0,0,NA,NA,D
+24 Jun 1998,Lens ,Spain,Bulgaria,6,1,NA,NA,Spain
+24 Jun 1998,Toulouse ,Nigeria,Paraguay,1,3,NA,NA,Paraguay
+13 Jun 1998,Saint-Denis ,Netherlands,Belgium,0,0,NA,NA,D
+13 Jun 1998,Lyon ,Korea Republic,Mexico,1,3,NA,NA,Mexico
+20 Jun 1998,Marseilles ,Netherlands,Korea Republic,5,0,NA,NA,Netherlands
+20 Jun 1998,Bordeaux ,Belgium,Mexico,2,2,NA,NA,D
+25 Jun 1998,Paris ,Belgium,Korea Republic,1,1,NA,NA,D
+25 Jun 1998,St. Etienne ,Netherlands,Mexico,2,2,NA,NA,D
+14 Jun 1998,St. Etienne ,Yugoslavia,Iran,1,0,NA,NA,Yugoslavia
+15 Jun 1998,Paris ,Germany,USA,2,0,NA,NA,Germany
+21 Jun 1998,Lens ,Germany,Yugoslavia,2,2,NA,NA,D
+21 Jun 1998,Lyon ,USA,Iran,1,2,NA,NA,Iran
+25 Jun 1998,Montpellier ,Germany,Iran,2,0,NA,NA,Germany
+25 Jun 1998,Nantes ,USA,Yugoslavia,0,1,NA,NA,Yugoslavia
+15 Jun 1998,Lyon ,Romania,Colombia,1,0,NA,NA,Romania
+15 Jun 1998,Marseilles ,England,Tunisia,2,0,NA,NA,England
+22 Jun 1998,Montpellier ,Colombia,Tunisia,1,0,NA,NA,Colombia
+22 Jun 1998,Toulouse ,Romania,England,2,1,NA,NA,Romania
+26 Jun 1998,Saint-Denis ,Romania,Tunisia,1,1,NA,NA,D
+26 Jun 1998,Lens ,Colombia,England,0,2,NA,NA,England
+14 Jun 1998,Lens ,Jamaica,Croatia,1,3,NA,NA,Croatia
+14 Jun 1998,Toulouse ,Argentina,Japan,1,0,NA,NA,Argentina
+20 Jun 1998,Nantes ,Japan,Croatia,0,1,NA,NA,Croatia
+21 Jun 1998,Paris ,Argentina,Jamaica,5,0,NA,NA,Argentina
+26 Jun 1998,Lyon ,Japan,Jamaica,1,2,NA,NA,Jamaica
+26 Jun 1998,Bordeaux ,Argentina,Croatia,1,0,NA,NA,Argentina
+27 Jun 1998,Paris ,Brazil,Chile,4,1,NA,NA,Brazil
+27 Jun 1998,Marseilles ,Italy,Norway,1,0,NA,NA,Italy
+28 Jun 1998,Saint-Denis ,Nigeria,Denmark,1,4,NA,NA,Denmark
+28 Jun 1998,Lens ,France,Paraguay,1,0,NA,NA,France
+29 Jun 1998,Montpellier ,Germany,Mexico,2,1,NA,NA,Germany
+29 Jun 1998,Toulouse ,Netherlands,Yugoslavia,2,1,NA,NA,Netherlands
+30 Jun 1998,St. Etienne ,Argentina,England,2,2,4,3,Argentina
+30 Jun 1998,Bordeaux ,Romania,Croatia,0,1,NA,NA,Croatia
+03 Jul 1998,Saint-Denis ,Italy,France,0,0,3,4,France
+03 Jul 1998,Nantes ,Brazil,Denmark,3,2,NA,NA,Brazil
+04 Jul 1998,Lyon ,Germany,Croatia,0,3,NA,NA,Croatia
+04 Jul 1998,Marseilles ,Netherlands,Argentina,2,1,NA,NA,Netherlands
+07 Jul 1998,Marseilles ,Brazil,Netherlands,1,1,4,2,Brazil
+08 Jul 1998,Saint-Denis ,France,Croatia,2,1,NA,NA,France
+11 Jul 1998,Paris ,Netherlands,Croatia,1,2,NA,NA,Croatia
+12 Jul 1998,Saint-Denis ,Brazil,France,0,3,NA,NA,France
+31 May 2002,Seoul ,France,Senegal,0,1,NA,NA,Senegal
+01 Jun 2002,Ulsan ,Uruguay,Denmark,1,2,NA,NA,Denmark
+06 Jun 2002,Busan ,France,Uruguay,0,0,NA,NA,D
+06 Jun 2002,Daegu ,Denmark,Senegal,1,1,NA,NA,D
+11 Jun 2002,Incheon ,Denmark,France,2,0,NA,NA,Denmark
+11 Jun 2002,Suwon ,Senegal,Uruguay,3,3,NA,NA,D
+02 Jun 2002,Busan ,Paraguay,South Africa,2,2,NA,NA,D
+02 Jun 2002,Gwangju ,Spain,Slovenia,3,1,NA,NA,Spain
+07 Jun 2002,Jeonju ,Spain,Paraguay,3,1,NA,NA,Spain
+08 Jun 2002,Daegu ,South Africa,Slovenia,1,0,NA,NA,South Africa
+12 Jun 2002,Daejeon ,South Africa,Spain,2,3,NA,NA,Spain
+12 Jun 2002,Jeju ,Slovenia,Paraguay,1,3,NA,NA,Paraguay
+03 Jun 2002,Ulsan ,Brazil,Turkey,2,1,NA,NA,Brazil
+04 Jun 2002,Gwangju ,China PR,Costa Rica,0,2,NA,NA,Costa Rica
+08 Jun 2002,Jeju ,Brazil,China PR,4,0,NA,NA,Brazil
+09 Jun 2002,Incheon ,Costa Rica,Turkey,1,1,NA,NA,D
+13 Jun 2002,Suwon ,Costa Rica,Brazil,2,5,NA,NA,Brazil
+13 Jun 2002,Seoul ,Turkey,China PR,3,0,NA,NA,Turkey
+04 Jun 2002,Busan ,Korea Republic,Poland,2,0,NA,NA,Korea Republic
+05 Jun 2002,Suwon ,USA,Portugal,3,2,NA,NA,USA
+10 Jun 2002,Daegu ,Korea Republic,USA,1,1,NA,NA,D
+10 Jun 2002,Jeonju ,Portugal,Poland,4,0,NA,NA,Portugal
+14 Jun 2002,Incheon ,Portugal,Korea Republic,0,1,NA,NA,Korea Republic
+14 Jun 2002,Daejeon ,Poland,USA,3,1,NA,NA,Poland
+01 Jun 2002,Niigata ,Republic of Ireland,Cameroon,1,1,NA,NA,D
+01 Jun 2002,Sapporo ,Germany,Saudi Arabia,8,0,NA,NA,Germany
+05 Jun 2002,Ibaraki ,Germany,Republic of Ireland,1,1,NA,NA,D
+06 Jun 2002,Saitama ,Cameroon,Saudi Arabia,1,0,NA,NA,Cameroon
+11 Jun 2002,Shizuoka ,Cameroon,Germany,0,2,NA,NA,Germany
+11 Jun 2002,Yokohama ,Saudi Arabia,Republic of Ireland,0,3,NA,NA,Republic of Ireland
+02 Jun 2002,Saitama ,England,Sweden,1,1,NA,NA,D
+02 Jun 2002,Ibaraki ,Argentina,Nigeria,1,0,NA,NA,Argentina
+07 Jun 2002,Kobe ,Sweden,Nigeria,2,1,NA,NA,Sweden
+07 Jun 2002,Sapporo ,Argentina,England,0,1,NA,NA,England
+12 Jun 2002,Miyagi ,Sweden,Argentina,1,1,NA,NA,D
+12 Jun 2002,Osaka ,Nigeria,England,0,0,NA,NA,D
+03 Jun 2002,Niigata ,Croatia,Mexico,0,1,NA,NA,Mexico
+03 Jun 2002,Sapporo ,Italy,Ecuador,2,0,NA,NA,Italy
+08 Jun 2002,Ibaraki ,Italy,Croatia,1,2,NA,NA,Croatia
+09 Jun 2002,Miyagi ,Mexico,Ecuador,2,1,NA,NA,Mexico
+13 Jun 2002,Oita ,Mexico,Italy,1,1,NA,NA,D
+13 Jun 2002,Yokohama ,Ecuador,Croatia,1,0,NA,NA,Ecuador
+04 Jun 2002,Saitama ,Japan,Belgium,2,2,NA,NA,D
+05 Jun 2002,Kobe ,Russia,Tunisia,2,0,NA,NA,Russia
+09 Jun 2002,Yokohama ,Japan,Russia,1,0,NA,NA,Japan
+10 Jun 2002,Oita ,Tunisia,Belgium,1,1,NA,NA,D
+14 Jun 2002,Osaka ,Tunisia,Japan,0,2,NA,NA,Japan
+14 Jun 2002,Shizuoka ,Belgium,Russia,3,2,NA,NA,Belgium
+15 Jun 2002,Jeju ,Germany,Paraguay,1,0,NA,NA,Germany
+15 Jun 2002,Niigata ,Denmark,England,0,3,NA,NA,England
+16 Jun 2002,Oita ,Sweden,Senegal,1,2,NA,NA,Senegal
+16 Jun 2002,Suwon ,Spain,Republic of Ireland,1,1,3,2,Spain
+17 Jun 2002,Jeonju ,Mexico,USA,0,2,NA,NA,USA
+17 Jun 2002,Kobe ,Brazil,Belgium,2,0,NA,NA,Brazil
+18 Jun 2002,Miyagi ,Japan,Turkey,0,1,NA,NA,Turkey
+18 Jun 2002,Daejeon ,Korea Republic,Italy,2,1,NA,NA,Korea Republic
+21 Jun 2002,Shizuoka ,England,Brazil,1,2,NA,NA,Brazil
+21 Jun 2002,Ulsan ,Germany,USA,1,0,NA,NA,Germany
+22 Jun 2002,Gwangju ,Spain,Korea Republic,0,0,3,5,Korea Republic
+22 Jun 2002,Osaka ,Senegal,Turkey,0,1,NA,NA,Turkey
+25 Jun 2002,Seoul ,Germany,Korea Republic,1,0,NA,NA,Germany
+26 Jun 2002,Saitama ,Brazil,Turkey,1,0,NA,NA,Brazil
+29 Jun 2002,Daegu ,Korea Republic,Turkey,2,3,NA,NA,Turkey
+30 Jun 2002,Yokohama ,Germany,Brazil,0,2,NA,NA,Brazil
+09 Jun 2006,Munich ,Germany,Costa Rica,4,2,NA,NA,Germany
+09 Jun 2006,Gelsenkirchen ,Poland,Ecuador,0,2,NA,NA,Ecuador
+14 Jun 2006,Dortmund ,Germany,Poland,1,0,NA,NA,Germany
+15 Jun 2006,Hamburg ,Ecuador,Costa Rica,3,0,NA,NA,Ecuador
+20 Jun 2006,Berlin ,Ecuador,Germany,0,3,NA,NA,Germany
+20 Jun 2006,Hanover ,Costa Rica,Poland,1,2,NA,NA,Poland
+10 Jun 2006,Frankfurt/Main ,England,Paraguay,1,0,NA,NA,England
+10 Jun 2006,Dortmund ,Trinidad and Tobago,Sweden,0,0,NA,NA,D
+15 Jun 2006,Nuremberg ,England,Trinidad and Tobago,2,0,NA,NA,England
+15 Jun 2006,Berlin ,Sweden,Paraguay,1,0,NA,NA,Sweden
+20 Jun 2006,Cologne ,Sweden,England,2,2,NA,NA,D
+20 Jun 2006,Kaiserslautern ,Paraguay,Trinidad and Tobago,2,0,NA,NA,Paraguay
+10 Jun 2006,Hamburg ,Argentina,Cte d'Ivoire,2,1,NA,NA,Argentina
+11 Jun 2006,Leipzig ,Serbia and Montenegro,Netherlands,0,1,NA,NA,Netherlands
+16 Jun 2006,Gelsenkirchen ,Argentina,Serbia and Montenegro,6,0,NA,NA,Argentina
+16 Jun 2006,Stuttgart ,Netherlands,Cte d'Ivoire,2,1,NA,NA,Netherlands
+21 Jun 2006,Frankfurt/Main ,Netherlands,Argentina,0,0,NA,NA,D
+21 Jun 2006,Munich ,Cte d'Ivoire,Serbia and Montenegro,3,2,NA,NA,Cte d'Ivoire
+11 Jun 2006,Nuremberg ,Mexico,Iran,3,1,NA,NA,Mexico
+11 Jun 2006,Cologne ,Angola,Portugal,0,1,NA,NA,Portugal
+16 Jun 2006,Hanover ,Mexico,Angola,0,0,NA,NA,D
+17 Jun 2006,Frankfurt/Main ,Portugal,Iran,2,0,NA,NA,Portugal
+21 Jun 2006,Gelsenkirchen ,Portugal,Mexico,2,1,NA,NA,Portugal
+21 Jun 2006,Leipzig ,Iran,Angola,1,1,NA,NA,D
+12 Jun 2006,Hanover ,Italy,Ghana,2,0,NA,NA,Italy
+12 Jun 2006,Gelsenkirchen ,USA,Czech Republic,0,3,NA,NA,Czech Republic
+17 Jun 2006,Kaiserslautern ,Italy,USA,1,1,NA,NA,D
+17 Jun 2006,Cologne ,Czech Republic,Ghana,0,2,NA,NA,Ghana
+22 Jun 2006,Hamburg ,Czech Republic,Italy,0,2,NA,NA,Italy
+22 Jun 2006,Nuremberg ,Ghana,USA,2,1,NA,NA,Ghana
+13 Jun 2006,Berlin ,Brazil,Croatia,1,0,NA,NA,Brazil
+12 Jun 2006,Kaiserslautern ,Australia,Japan,3,1,NA,NA,Australia
+18 Jun 2006,Munich ,Brazil,Australia,2,0,NA,NA,Brazil
+18 Jun 2006,Nuremberg ,Japan,Croatia,0,0,NA,NA,D
+22 Jun 2006,Dortmund ,Japan,Brazil,1,4,NA,NA,Brazil
+22 Jun 2006,Stuttgart ,Croatia,Australia,2,2,NA,NA,D
+13 Jun 2006,Stuttgart ,France,Switzerland,0,0,NA,NA,D
+13 Jun 2006,Frankfurt/Main ,Korea Republic,Togo,2,1,NA,NA,Korea Republic
+18 Jun 2006,Leipzig ,France,Korea Republic,1,1,NA,NA,D
+19 Jun 2006,Dortmund ,Togo,Switzerland,0,2,NA,NA,Switzerland
+23 Jun 2006,Cologne ,Togo,France,0,2,NA,NA,France
+23 Jun 2006,Hanover ,Switzerland,Korea Republic,2,0,NA,NA,Switzerland
+14 Jun 2006,Leipzig ,Spain,Ukraine,4,0,NA,NA,Spain
+14 Jun 2006,Munich ,Tunisia,Saudi Arabia,2,2,NA,NA,D
+19 Jun 2006,Stuttgart ,Spain,Tunisia,3,1,NA,NA,Spain
+19 Jun 2006,Hamburg ,Saudi Arabia,Ukraine,0,4,NA,NA,Ukraine
+23 Jun 2006,Kaiserslautern ,Saudi Arabia,Spain,0,1,NA,NA,Spain
+23 Jun 2006,Berlin ,Ukraine,Tunisia,1,0,NA,NA,Ukraine
+24 Jun 2006,Munich ,Germany,Sweden,2,0,NA,NA,Germany
+24 Jun 2006,Leipzig ,Argentina,Mexico,2,1,NA,NA,Argentina
+25 Jun 2006,Stuttgart ,England,Ecuador,1,0,NA,NA,England
+25 Jun 2006,Nuremberg ,Portugal,Netherlands,1,0,NA,NA,Portugal
+26 Jun 2006,Kaiserslautern ,Italy,Australia,1,0,NA,NA,Italy
+26 Jun 2006,Cologne ,Switzerland,Ukraine,0,0,0,3,Ukraine
+27 Jun 2006,Dortmund ,Brazil,Ghana,3,0,NA,NA,Brazil
+27 Jun 2006,Hanover ,Spain,France,1,3,NA,NA,France
+30 Jun 2006,Berlin ,Germany,Argentina,1,1,4,2,Germany
+30 Jun 2006,Hamburg ,Italy,Ukraine,3,0,NA,NA,Italy
+01 Jul 2006,Gelsenkirchen ,England,Portugal,0,0,1,3,Portugal
+01 Jul 2006,Frankfurt/Main ,Brazil,France,0,1,NA,NA,France
+04 Jul 2006,Dortmund ,Germany,Italy,0,2,NA,NA,Italy
+05 Jul 2006,Munich ,Portugal,France,0,1,NA,NA,France
+08 Jul 2006,Stuttgart ,Germany,Portugal,3,1,NA,NA,Germany
+09 Jul 2006,Berlin ,Italy,France,1,1,5,3,Italy
+11 Jun 2010,Johannesburg ,South Africa,Mexico,1,1,NA,NA,D
+11 Jun 2010,Cape Town ,Uruguay,France,0,0,NA,NA,D
+16 Jun 2010,Tshwane/Pretoria ,South Africa,Uruguay,0,3,NA,NA,Uruguay
+17 Jun 2010,Polokwane ,France,Mexico,0,2,NA,NA,Mexico
+22 Jun 2010,Rustenburg ,Mexico,Uruguay,0,1,NA,NA,Uruguay
+22 Jun 2010,Mangaung/Bloemfontein ,France,South Africa,1,2,NA,NA,South Africa
+12 Jun 2010,Johannesburg ,Argentina,Nigeria,1,0,NA,NA,Argentina
+12 Jun 2010,Nelson Mandela Bay/Port Elizabeth ,Korea Republic,Greece,2,0,NA,NA,Korea Republic
+17 Jun 2010,Mangaung/Bloemfontein ,Greece,Nigeria,2,1,NA,NA,Greece
+17 Jun 2010,Johannesburg ,Argentina,Korea Republic,4,1,NA,NA,Argentina
+22 Jun 2010,Durban ,Nigeria,Korea Republic,2,2,NA,NA,D
+22 Jun 2010,Polokwane ,Greece,Argentina,0,2,NA,NA,Argentina
+12 Jun 2010,Rustenburg ,England,USA,1,1,NA,NA,D
+13 Jun 2010,Polokwane ,Algeria,Slovenia,0,1,NA,NA,Slovenia
+18 Jun 2010,Johannesburg ,Slovenia,USA,2,2,NA,NA,D
+18 Jun 2010,Cape Town ,England,Algeria,0,0,NA,NA,D
+23 Jun 2010,Nelson Mandela Bay/Port Elizabeth ,Slovenia,England,0,1,NA,NA,England
+23 Jun 2010,Tshwane/Pretoria ,USA,Algeria,1,0,NA,NA,USA
+13 Jun 2010,Durban ,Germany,Australia,4,0,NA,NA,Germany
+13 Jun 2010,Tshwane/Pretoria ,Serbia,Ghana,0,1,NA,NA,Ghana
+18 Jun 2010,Nelson Mandela Bay/Port Elizabeth ,Germany,Serbia,0,1,NA,NA,Serbia
+19 Jun 2010,Rustenburg ,Ghana,Australia,1,1,NA,NA,D
+23 Jun 2010,Johannesburg ,Ghana,Germany,0,1,NA,NA,Germany
+23 Jun 2010,Nelspruit ,Australia,Serbia,2,1,NA,NA,Australia
+14 Jun 2010,Johannesburg ,Netherlands,Denmark,2,0,NA,NA,Netherlands
+14 Jun 2010,Mangaung/Bloemfontein ,Japan,Cameroon,1,0,NA,NA,Japan
+19 Jun 2010,Durban ,Netherlands,Japan,1,0,NA,NA,Netherlands
+19 Jun 2010,Tshwane/Pretoria ,Cameroon,Denmark,1,2,NA,NA,Denmark
+24 Jun 2010,Rustenburg ,Denmark,Japan,1,3,NA,NA,Japan
+24 Jun 2010,Cape Town ,Cameroon,Netherlands,1,2,NA,NA,Netherlands
+14 Jun 2010,Cape Town ,Italy,Paraguay,1,1,NA,NA,D
+15 Jun 2010,Rustenburg ,New Zealand,Slovakia,1,1,NA,NA,D
+20 Jun 2010,Mangaung/Bloemfontein ,Slovakia,Paraguay,0,2,NA,NA,Paraguay
+20 Jun 2010,Nelspruit ,Italy,New Zealand,1,1,NA,NA,D
+24 Jun 2010,Johannesburg ,Slovakia,Italy,3,2,NA,NA,Slovakia
+24 Jun 2010,Polokwane ,Paraguay,New Zealand,0,0,NA,NA,D
+15 Jun 2010,Nelson Mandela Bay/Port Elizabeth ,Cte d'Ivoire,Portugal,0,0,NA,NA,D
+15 Jun 2010,Johannesburg ,Brazil,Korea DPR,2,1,NA,NA,Brazil
+20 Jun 2010,Johannesburg ,Brazil,Cte d'Ivoire,3,1,NA,NA,Brazil
+21 Jun 2010,Cape Town ,Portugal,Korea DPR,7,0,NA,NA,Portugal
+25 Jun 2010,Durban ,Portugal,Brazil,0,0,NA,NA,D
+25 Jun 2010,Nelspruit ,Korea DPR,Cte d'Ivoire,0,3,NA,NA,Cte d'Ivoire
+16 Jun 2010,Nelspruit ,Honduras,Chile,0,1,NA,NA,Chile
+16 Jun 2010,Durban ,Spain,Switzerland,0,1,NA,NA,Switzerland
+21 Jun 2010,Nelson Mandela Bay/Port Elizabeth ,Chile,Switzerland,1,0,NA,NA,Chile
+21 Jun 2010,Johannesburg ,Spain,Honduras,2,0,NA,NA,Spain
+25 Jun 2010,Tshwane/Pretoria ,Chile,Spain,1,2,NA,NA,Spain
+25 Jun 2010,Mangaung/Bloemfontein ,Switzerland,Honduras,0,0,NA,NA,D
+26 Jun 2010,Nelson Mandela Bay/Port Elizabeth ,Uruguay,Korea Republic,2,1,NA,NA,Uruguay
+26 Jun 2010,Rustenburg ,USA,Ghana,1,2,NA,NA,Ghana
+27 Jun 2010,Mangaung/Bloemfontein ,Germany,England,4,1,NA,NA,Germany
+27 Jun 2010,Johannesburg ,Argentina,Mexico,3,1,NA,NA,Argentina
+28 Jun 2010,Durban ,Netherlands,Slovakia,2,1,NA,NA,Netherlands
+28 Jun 2010,Johannesburg ,Brazil,Chile,3,0,NA,NA,Brazil
+29 Jun 2010,Tshwane/Pretoria ,Paraguay,Japan,0,0,5,3,Paraguay
+29 Jun 2010,Cape Town ,Spain,Portugal,1,0,NA,NA,Spain
+02 Jul 2010,Nelson Mandela Bay/Port Elizabeth ,Netherlands,Brazil,2,1,NA,NA,Netherlands
+02 Jul 2010,Johannesburg ,Uruguay,Ghana,1,1,4,2,Uruguay
+03 Jul 2010,Cape Town ,Argentina,Germany,0,4,NA,NA,Germany
+03 Jul 2010,Johannesburg ,Paraguay,Spain,0,1,NA,NA,Spain
+06 Jul 2010,Cape Town ,Uruguay,Netherlands,2,3,NA,NA,Netherlands
+07 Jul 2010,Durban ,Germany,Spain,0,1,NA,NA,Spain
+10 Jul 2010,Nelson Mandela Bay/Port Elizabeth ,Uruguay,Germany,2,3,NA,NA,Germany
+11 Jul 2010,Johannesburg ,Netherlands,Spain,0,1,NA,NA,Spain
